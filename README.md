@@ -6,6 +6,7 @@ This is a Python-based application to manage student records using file handling
 - Add student
 - View all students
 - Search student by ID
+- Update student details
 - Delete student
 
 ## Technologies Used
